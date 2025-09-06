@@ -16,7 +16,7 @@ The major points to focus on in this part of the reading are:
 * The recurrence relation describing the string matching algorithm's worst case cost
 * The three distinct forms of recurrence relations commonly seen for algorithms
 
-**By Wednesday, September 10, 2025:** _(this reading will be added to the Course Reader by Saturday, September 6 at the latest)_
+**By Wednesday, September 10, 2025:**
 
 * Chapter 8: Recurrences: Backward Substitution
 * Chapter 9: Recurrences: Backward Substitution: Activities Introduction
