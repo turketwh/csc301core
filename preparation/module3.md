@@ -14,7 +14,7 @@ The major points to focus on in this part of the reading are:
 * The components of a recurrence relation that are needed to make use of the Master Theorem
 * Selecting the appropriate case of the Master Theorem based on the recurrence relation components
 
-**By Wednesday, September 17, 2025:**  *(this reading, not yet available, will be posted by Saturday, September 13, 2025)*
+**By Wednesday, September 17, 2025:**  *(this reading, not yet available, will be posted by Sunday, September 14, 2025)*
 
 * Chapter 12: Recurrences: Recurrence Trees
 * Chapter 13: Recurrences: Recurrence Trees: Activities Introduction
